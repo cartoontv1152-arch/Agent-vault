@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">AgentVault</title>
+  <rect width="64" height="64" rx="16" fill="#171916"/>
+  <rect x="17" y="17" width="21" height="21" rx="5" fill="#e9f0eb"/>
+  <rect x="37" y="37" width="10" height="10" rx="3" fill="#315b43"/>
+  <path d="M27.5 27.5 42 42" stroke="#171916" stroke-width="3" stroke-linecap="round"/>
+</svg>
